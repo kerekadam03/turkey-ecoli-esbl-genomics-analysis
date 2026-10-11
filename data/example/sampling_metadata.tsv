@@ -1,0 +1,5 @@
+isolate_id	sample_id	bird_id	sampling_site	farm_id	flock_id	region	age_group	production_type
+demo-001	demo-s1	demo-b1	Cloacal	anonymous-farm1	flock1	demo-region	juvenile	turkey
+demo-002	demo-s2	demo-b2	Tracheal	anonymous-farm1	flock1	demo-region	juvenile	turkey
+demo-003	demo-s3	demo-b3	Cloacal	anonymous-farm2	flock2	demo-region	adult	turkey
+demo-004	demo-s4	demo-b4	Tracheal	anonymous-farm2	flock2	demo-region	adult	turkey

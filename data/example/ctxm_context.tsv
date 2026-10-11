@@ -1,0 +1,4 @@
+isolate_id	gene	contig_id	plasmid_predicted	mge_element	mge_hit_id	distance_bp
+demo-001	blaCTX-M-1	demo_ctg_1	Yes	IS26	mge_a	135
+demo-001	blaCTX-M-1	demo_ctg_1	Yes	IS26	mge_b	575
+demo-003	blaCTX-M-27	demo_ctg_7	Unknown			

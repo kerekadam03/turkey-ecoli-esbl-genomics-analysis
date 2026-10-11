@@ -1,0 +1,12 @@
+drug	category	n	N	interpretation_type
+Example antimicrobial A	Susceptible	2	4	clinical
+Example antimicrobial A	Intermediate	1	4	clinical
+Example antimicrobial A	Resistant	1	4	clinical
+Example antimicrobial B	Susceptible	3	4	clinical
+Example antimicrobial B	Intermediate	0	4	clinical
+Example antimicrobial B	Resistant	1	4	clinical
+Cefotaxime-clavulanate	Susceptible	4	4	clinical
+Cefotaxime-clavulanate	Intermediate	0	4	clinical
+Cefotaxime-clavulanate	Resistant	0	4	clinical
+Example ECOFF-only C	Wild-type	2	4	ecoff
+Example ECOFF-only C	Non-wild-type	2	4	ecoff

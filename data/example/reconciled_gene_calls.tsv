@@ -1,0 +1,5 @@
+isolate_id	gene	call_class	status	plasmid_predicted	mge_proximal
+demo-001	blaCTX-M-1	acquired	verified	Yes	Yes
+demo-001	tet(A)	acquired	verified	No	No
+demo-002	mdfA	intrinsic	verified	No	No
+demo-003	blaCTX-M-27	acquired	verified	Unknown	No

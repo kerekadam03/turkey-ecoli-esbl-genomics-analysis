@@ -1,0 +1,5 @@
+isolate_id	cefotaxime_mic_ug_ml	cefotaxime_clavulanate_mic_ug_ml	initial_esbl_screen_positive	laboratory_esbl_phenotype
+demo-001	8	0.5	Yes	Positive
+demo-002	1	0.5	No	Negative
+demo-003	4	1	Yes	Negative
+demo-004	>=16	0.5	Unknown	Unknown

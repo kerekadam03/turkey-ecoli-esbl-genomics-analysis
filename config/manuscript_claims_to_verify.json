@@ -1,0 +1,12 @@
+{
+  "MANUSCRIPT_CLAIMS_TO_VERIFY": {
+    "study_isolate_n": 160,
+    "phenotypic_esbl_positive_n": 24,
+    "blactxm_positive_n": 9,
+    "external_reference_genome_n": 10,
+    "farm_n": 23,
+    "plasmid_predicted_CTXM_carriers_n": 9,
+    "MGE_CTXM_carriers_n": 5
+  },
+  "data_source": "Numerical reporting targets from the manuscript; compare with independently validated source inputs."
+}

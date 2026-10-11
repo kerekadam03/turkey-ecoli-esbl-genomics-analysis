@@ -1,0 +1,4 @@
+# Optional visualization dependencies; core analysis uses the Python standard library.
+matplotlib>=3.7,<4
+numpy>=1.24,<3
+# Optional formatted Excel export requires artifact_tool, provided by the research environment.
